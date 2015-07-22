@@ -1,0 +1,9 @@
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\bin\Debug\Graf_World.exe.config
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\bin\Debug\Graf_World.exe
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\bin\Debug\Graf_World.pdb
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\obj\Debug\Graf_World.csprojResolveAssemblyReference.cache
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\obj\Debug\Graf_World.Form1.resources
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\obj\Debug\Graf_World.Properties.Resources.resources
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\obj\Debug\Graf_World.csproj.GenerateResource.Cache
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\obj\Debug\Graf_World.exe
+C:\Users\Děda\Dropbox\aktovka\Zdrojáky\C#\Graf_World\Graf_World\obj\Debug\Graf_World.pdb
